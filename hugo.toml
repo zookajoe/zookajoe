@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+theme = 'hugo-theme-stack'
+[params]
+    [params.contact]
+        email = 'marsh.josephm@outlook.com'
+        phone = '+1 570-484-1413'
+title = 'zookajoe'
+subtitle = 'juggling hobbies since 2001'
