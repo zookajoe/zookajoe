@@ -38,7 +38,7 @@ params:
   favicon: images/favicon-32x32.png
 
   footer:
-    since: 2023
+    since: 2024
     customText: too many hobbies.
 
   dateFormat:
@@ -46,7 +46,7 @@ params:
     lastUpdated: Jan 02, 2006 15:04 MST
 
   sidebar:
-    emoji: ☕
+    emoji: 🌴
     subtitle: "juggling hobbies since 2001."
     avatar:
       enabled: true
