@@ -1,5 +1,5 @@
 ---
-title: Saddle Up!: Development Log #001
+title: "Saddle Up!: Development Log #001"
 description: Howdy, partners.
 date: 2024-09-03 20:04:00+0000
 image: tower.png
