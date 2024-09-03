@@ -1,5 +1,5 @@
 ---
-title: YouTube Tutorials
+title: "YouTube Tutorials"
 description: Written follow-alongs to my YouTube tutorials!
 image:
 
